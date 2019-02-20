@@ -1,6 +1,6 @@
 # ServerlessDays ATX Demo
 
-This repository contains the functions that will be used to demonstrate OpenFaaS Serverless Functions during the ServerlessDays ATX conference on 22 Feb, 2019
+This repository contains the functions that will be used to demonstrate OpenFaaS Serverless Functions during the [ServerlessDays ATX](https://atx.serverlessdays.io/) conference on 22 Feb, 2019
 
 ## OpenFaaS
 OpenFaaS Cloud is running and connected to the repo via a GitHub App.
